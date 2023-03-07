@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **vivek16292001@gmail.com**
+- 📫 How to reach me **vivek15292001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
