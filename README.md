@@ -1,20 +1,31 @@
-## Hi there! 👋 I'm Vivek 👨‍💻
+<h1 align="center">Hi there 👋, I'm Vivek Sharma</h1>
+<p align="center">A passionate Full Stack Developer diving deep into React, Node.js, and AI integrations.</p>
 
-- 🔭 I’m currently working on [My Awesome Project](https://github.com/Vivek29112001/my-awesome-project)
-- 🌱 I’m learning **React, Node.js, and AI technologies**
-- 💬 Ask me about **Python, JavaScript, or Web Development**
-- 📫 How to reach me: [Email](mailto:vivek@example.com) | [LinkedIn](https://linkedin.com/in/vivek29112001)
-- ⚡ Fun fact: I'm a coffee enthusiast ☕ and love solving puzzles 🧩.
+---
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vivek29112001)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/vivek29112001)
+### 🚀 About Me
 
-### Technologies:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- 🔭 I’m currently building: [My Awesome Project](https://github.com/Vivek29112001/my-awesome-project)
+- 🌱 Learning Roadmap: `React`, `Node.js`, `AI/ML Integrations`, `TypeScript`
+- 💬 Ask me about: `JavaScript`, `Python`, `REST APIs`, `Full Stack Development`
+- 📫 Reach out: [Email](mailto:vivek@example.com) | [LinkedIn](https://linkedin.com/in/vivek29112001)
+- ⚡ Fun Fact: I love solving logic puzzles and exploring low-level system design concepts.
 
-### GitHub Stats:
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek29112001&show_icons=true&theme=radical)
+---
+
+### 🧰 Tech Stack
+
+```ts
+// Frontend
+Languages:       JavaScript (ES6+), TypeScript
+Frameworks:      React, Redux, Tailwind CSS
+
+// Backend
+Runtime:         Node.js
+Frameworks:      Express.js
+Database:        MongoDB (Mongoose), PostgreSQL (basic)
+
+// DevOps & Tools
+Version Control: Git, GitHub
+API Tools:       Postman, Swagger
+Others:          Figma, Vite, VS Code
