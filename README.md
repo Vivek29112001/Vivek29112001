@@ -1,55 +1,45 @@
-<h1 align="center">Hi there 👋, I'm Vivek Sharma</h1>
-<p align="center">Full Stack Developer • QA Engineer • AI/ML Enthusiast</p>
-<p align="center">Building scalable systems, intelligent applications, and high-quality user experiences.</p>
+<h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
+<p align="center">
+Software Engineer • React • Next.js • TypeScript • Node.js
+</p>
+<p align="center">
+Building scalable web applications and production-ready systems.
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently working on: **AI-powered Blinkit-like e-commerce system (React + Node + ML recommendations)**
-- 🎓 Pursuing **M.Tech in AI & ML (BITS Pilani – WILP)**
-- 💼 Experience: **Software Engineer (React/Next.js)** | **Assistant Manager – QA at Jio (MyJio, JioCinema, PeopleFirst)**
-- 🌱 Deeply learning: `Machine Learning`, `Deep Learning`, `LLMs`, `Next.js`, `Cloud Deployments`
-- 💬 Ask me about: `Full-Stack Development`, `Testing Automation`, `System Design`, `AI Integrations`, `SDLC Best Practices`
-- 📫 Reach out: [Email](mailto:vivek.sharma@cybercube.co) | [LinkedIn](https://linkedin.com/in/vivek2911)
-- ⚡ Fun Fact: I enjoy reverse-engineering apps & optimizing workflows using automation + AI.
+- 💼 Software Engineer with 2+ years of experience building scalable, high-performance web applications  
+- 🏢 Currently working at **CyberCube Services Pvt Ltd** (Enterprise systems & dashboards)  
+- 🏢 Former **SDE-1 at Jio Platforms** contributing to large-scale apps serving millions of users  
+- 🎓 Pursuing M.Tech (WILP) from BITS Pilani  
+- 🧠 Strong focus on **System Design, Clean Architecture & Performance Optimization**
+
+📫 Reach me at:  
+[LinkedIn](https://linkedin.com/in/vivek2911)
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 ```ts
-// Programming Languages
-Languages: JavaScript (ES6+), TypeScript, Python, SQL
+// Languages
+JavaScript, TypeScript, Python, SQL
 
 // Frontend
-Frameworks: React.js, Next.js, Redux Toolkit
-Styling: Tailwind CSS, ShadCN UI
-Testing: Jest, React Testing Library
+React.js, Next.js, Redux Toolkit, Tailwind CSS
 
 // Backend
-Runtime: Node.js
-Frameworks: Express.js
-Databases: MongoDB (Mongoose), PostgreSQL
-Auth: JWT, OAuth
-API Design: REST, Swagger/OpenAPI
+Node.js, Express.js, REST APIs, Authentication (JWT)
 
-// AI / Machine Learning
-Python Libraries: NumPy, Pandas, Scikit-Learn, Matplotlib
-ML Concepts: Regression, Classification, Feature Engineering
-Tools: Jupyter Notebook, Colab
+// Databases
+PostgreSQL, MongoDB
 
-// DevOps & Cloud
-Platforms: Netlify, Vercel, AWS (Basics)
-CI/CD: GitHub Actions
-Containers: Docker (Beginner)
+// DevOps & Tools
+Docker, GitHub Actions, Git, Postman
 
-// QA & Automation
-Tools: Postman, Newman, PyTest
-Practices: Test Planning, Functional Testing, Regression Testing, SDLC (Agile)
-
-// Developer Tools
-Version Control: Git, GitHub
-Editors: VS Code, WebStorm
-Design: Figma
-Build Tools: Vite, Webpack
+// Core CS
+Data Structures & Algorithms
+System Design
+OOP & Design Patterns
